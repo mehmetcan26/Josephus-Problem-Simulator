@@ -1,4 +1,4 @@
-# ConsoleAppMono
+# Josephus Problem Simulator
 
 Who would be the survivor if a group of soldiers form a ring and starting from the soldier 1  kill the first soldier that is to their left?
 
